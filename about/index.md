@@ -7,7 +7,7 @@ comments: false
     
 <center><b>Thermoidraulica Pasini</b></center>
 {% capture images %}
-    /assets/img/500x300.png
+   https://imgur.com/9ltg6oB
 {% endcapture %}
  
 ## About us
