@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Site
 title:              Moon
 bio:                'Minimal, one column jekyll theme.'
@@ -10,7 +9,6 @@ background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://taylantatli.github.io/Moon
-               
 
 # Jekyll
 permalink:          /:title/
@@ -39,14 +37,14 @@ disqus_shortname:   taylantatli
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:              thermoidraulica@libero.it
+#email:
 twitter:            username
 facebook:           username
 github-url:         username
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
-instagram:          username1
+instagram:          username
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
@@ -76,6 +74,3 @@ jekyll-mentions:
 
 # Exclude list
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile]
-=======
-theme: jekyll-theme-minimal
->>>>>>> cfead18a61bc673a1aa950b3a8eb30a9554990f7
