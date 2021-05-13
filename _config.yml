@@ -3,11 +3,11 @@
 title:              Thermoidraulica Pasini
 bio:                'Thermoidraulica Pasini di Pasini Giovanni'
 description:        "Thermoidraulica Pasini di Pasini Giovanni è un'azienda che opera nell'ambito di impianti :"
-reading_time:       false
+reading_time:       true
 words_per_minute:   200
 logo:               https://i.imgur.com/vcDSmCi.png
 background:         assets/img/placeholder-big.jpg
-tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
+tiled_bg:           true   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             it_IT
 url:                https://thermoidraulicapasini.github.io/
 
