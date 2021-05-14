@@ -8,8 +8,8 @@ comments: false
     
 <center> <b>Thermoidraulica Pasini di Pasini Giovanni</b></center>
 {% capture images %}
-   <blockquote class="imgur-embed-pub" lang="en" data-id="9ltg6oB"><a href="https://imgur.com/9ltg6oB"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-{% endcapture %}
+<a href="https://imgur.com/9ltg6oB"><img src="https://i.imgur.com/9ltg6oB.png" title="source: imgur.com" /></a>
+   {% endcapture %}
 ## Abuot us
 *  Thermoidraulica Pasini di Pasini Giovanni, con sede a Lovere, opera sul territorio da anni. Lavora principalente su impianti di diverso tipo, come:
 * a metano
