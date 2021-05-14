@@ -21,8 +21,12 @@ comments: false
 
 
 
-## Getting Started
+## Contatti
+Se interessati potete trovaci nelle seguenti modalità:
+ * Cellulare: +39 3381610991
+ * Email : thermoidraulica@libero.it
+ 
+ Partita IVA: 02565280167
 
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
+
       
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
