@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About the Theme
+title: Thermoidraulica Pasini
 tags: [about, Jekyll, theme, moon]
 date: 2016-03-21
 comments: false
@@ -19,7 +19,7 @@ comments: false
 * antincendio
 
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
+
 
 ## Getting Started
 
