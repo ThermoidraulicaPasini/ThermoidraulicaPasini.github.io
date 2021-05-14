@@ -9,8 +9,12 @@ comments: false
 <center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
 
 ## Features
-* Thermoidraulica
-* Responsive
+*  Thermoidraulica Pasini di Pasini Giovanni, con sede a Lovere, opera sul territorio da anni. Lavora principalente su impianti di diverso tipo, come:
+* a metano
+* idrotermosanitari
+* industriali
+* di condizionamento
+* antincendio
 * Disqus integration
 * Syntax highlighting
 * Optional post image
